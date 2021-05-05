@@ -1,3 +1,6 @@
+NOTE: This repository has been moved to https://github.com/minetest-mods/trash_can
+Please use that repository instead.
+
  _____             _       _____
 |_   _|           | |     /  __ \
   | |_ __ __ _ ___| |__   | /  \/ __ _ _ __
